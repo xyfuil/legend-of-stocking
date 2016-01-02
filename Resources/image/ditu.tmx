@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="32" height="10" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="ditu" tilewidth="32" tileheight="32">
+  <image source="ditu.png" width="1024" height="320"/>
+ </tileset>
+ <layer name="块层 1" width="32" height="10">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACw3DB5gOBAAA0P+cO84NN9107s7duYXb+45SNplRaEmaGkpUFA00FGWWkbKpjIYVRUOotGhpDw2V0jbe970XFAgEmhhsU0MMtZnNDbOF4UYYaZQtjTbGWOOMN8FWJppksimmmmZr021jhplm2dZsc8y1nXnmW2ChRba3gx0ttsRSyyy3wkqrrLbGWuust8FGO9nZMzzTLp7l2Xa1m93tYU972ds+9vUc+9nfAQ50kIM91yEO9TzPd5jDHeEFXuhFXuwljvRSR3mZo73cK7zSq7zaaxzjtV7n9d7gWG/0Jsd5s+Od4C3e6m1OdJK3e4eTneKd3uXd3uNUpznde73P+33AGT7oQ850lg/7iLOd41znOd8FPupjLnSRi13i4y71CZ90mctd4UpXudo1rnWdT/m0z7jeDW50k8/6nM/7gpvd4la3ud0X3eFOX/Jld7nbV3zV13zdPb7hXve53zd9y7c94Du+63u+7wce9JAf+pEf+4mfetjP/Nwv/NKv/Npv/Nbv/N4j/uCP/uTPHvUXf/U3j/m7f3jcP/3Lv/3Hf/3P/z3hSU8ZCMImBtvUEENtZnPDbGG4EUYaZUujjTHWOONNsJWJJplsiqmm2dp025hhplm2Ndscc21nnvkWWGiR7e1gR4stsdQyy62w0iqrrbHWOuttsNFOdvY0nPgeoQAFAAA=
+  </data>
+ </layer>
+</map>
